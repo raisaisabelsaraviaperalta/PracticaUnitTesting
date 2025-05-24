@@ -213,9 +213,9 @@ var assemblies = [
   {
     "name": "EstudianteAPI",
     "classes": [
-      { "name": "EstudianteAPI.Controllers.EstudianteController", "rp": "EstudianteAPI_EstudianteController.html", "cl": 24, "ucl": 0, "cal": 24, "tl": 63, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "EstudianteAPI.Controllers.EstudianteController", "rp": "EstudianteAPI_EstudianteController.html", "cl": 27, "ucl": 0, "cal": 27, "tl": 70, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "EstudianteAPI.Models.Estudiante", "rp": "EstudianteAPI_Estudiante.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 9, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "EstudianteAPI.Services.EstudianteService", "rp": "EstudianteAPI_EstudianteService.html", "cl": 32, "ucl": 9, "cal": 41, "tl": 68, "cb": 5, "tb": 6, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "EstudianteAPI.Services.EstudianteService", "rp": "EstudianteAPI_EstudianteService.html", "cl": 32, "ucl": 17, "cal": 49, "tl": 77, "cb": 5, "tb": 8, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "Program", "rp": "EstudianteAPI_Program.html", "cl": 0, "ucl": 9, "cal": 9, "tl": 13, "cb": 0, "tb": 2, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
 ];
